@@ -1,0 +1,17 @@
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\WebAPIApplication.dll.config
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\WebAPIApplication.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\WebAPIApplication.pdb
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\Newtonsoft.Json.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\System.Net.Http.Formatting.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\System.Web.Http.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\System.Web.Http.WebHost.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\Newtonsoft.Json.xml
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\System.Net.Http.Formatting.xml
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\System.Web.Http.xml
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\bin\System.Web.Http.WebHost.xml
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\obj\Debug\WebAPIApplication.csprojResolveAssemblyReference.cache
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\obj\Debug\WebAPIApplication.csproj.CoreCompileInputs.cache
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\obj\Debug\WebAPIApplication.dll
+C:\csharp\WEB API\web-API-.NET\WebAPIApplication\obj\Debug\WebAPIApplication.pdb

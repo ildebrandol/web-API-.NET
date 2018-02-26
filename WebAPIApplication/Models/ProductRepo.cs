@@ -30,6 +30,16 @@ namespace WebAPIApplication.Models
             }
         }
 
+        public Product GetById(long id)
+        {
+            return _products.FirstOrDefault(p => p.Id == id);
+        }
+
+        public IEnumerable<Product> GetByCategory(string name)
+        {
+            return _products.Where(p => string.Equals(name, p.Category, StringComparison.InvariantCultureIgnoreCase));
+        }
+
         public Product Add(Product product)
         {
             _maxID++;
@@ -48,6 +58,15 @@ namespace WebAPIApplication.Models
             storedProduct.Name = product.Name;
             storedProduct.Category = product.Category;
             storedProduct.Price = product.Price;
+            return true;
+        }
+
+        public bool Update(long id)
+        {
+            var storedProduct = _products.FirstOrDefault(p => p.Id == id);
+            if (storedProduct == null)
+                return false;
+            _products.Remove(storedProduct);
             return true;
         }
     }
